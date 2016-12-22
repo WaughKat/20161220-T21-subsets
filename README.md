@@ -1,3 +1,4 @@
-# 20161220-T21-subsets
-T21 subsets by surface staining
-I have no idea what I'm doing.
+MatlabCytofUtilities
+====================
+
+various scripts and functions that can be useful when working with mass (or flow) cytometry data in Matlab
